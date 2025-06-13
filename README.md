@@ -1,4 +1,4 @@
-<html lang="pt-BR">Add commentMore actions
+<html lang="pt-BR">
 <head>
     <link rel="stylesheet" href="styles.css">
     <title>Aluraflix</title>
@@ -8,7 +8,7 @@
     <header>ALURAFLIX</header>
 
     <section>
-        <div>
+        <div class="chamada-texto">
             <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
             <p>#homem-aranha</p>
         </div>
@@ -23,4 +23,4 @@
 
 </body>
 
-</html>Add comment
+</html>
